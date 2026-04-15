@@ -2,23 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Javi+%F0%9F%91%8B;Full+Stack+Developer;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JaviAzR18&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```javascript
-const javi = {
-  location: "España 🇪🇸",
-  role: "Data Scientist | ML Engenieer",
-  passions: ["Clean Code", "Problem Solving", "Open Source"],
-  currentlyLearning: ["Data Science", "AI", "ML"],
-  funFact: "I debug with coffee ☕ and fix bugs with more coffee"
-};
-```
+- Location: Spain 🇪🇸
+- Role: Data Scientist | ML Engineer | AI Engineer
+- Visit my [personal website](https://portfolio-javier-aznar.vercel.app/)
 
 ---
 
@@ -53,6 +45,24 @@ const javi = {
 ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-aa3333?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Customer Churn Prediction](https://github.com/JaviAzR18)
+* [cite_start]**Description:** Developed a machine learning model to predict customer churn using Python and Scikit-learn on a dataset of ~5,000 samples.
+* [cite_start]**Key Achievements:** * Performed extensive exploratory data analysis (EDA) and feature engineering to identify key drivers of churn[cite: 31].
+    * [cite_start]Applied model tuning and validation techniques, achieving **78% recall** to effectively detect high-risk customers.
+    * [cite_start]Deployed the solution as an interactive web application using Streamlit for real-time predictions[cite: 33].
+* **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit.
+
+### 🤖 [RAG-based Knowledge Assistant](https://github.com/JaviAzR18)
+* [cite_start]**Description:** Designed and implemented a local-first Retrieval-Augmented Generation (RAG) pipeline for semantic search over custom document collections[cite: 34].
+* [cite_start]**Key Achievements:** * Built an end-to-end data pipeline including document ingestion, text chunking, embedding generation, and vector indexing[cite: 35].
+    * [cite_start]Implemented similarity search with top-k retrieval to improve answer relevance and contextual grounding[cite: 35].
+    * [cite_start]Developed RESTful APIs with FastAPI and an interactive Streamlit interface for seamless querying[cite: 35].
+* **Tech Stack:** LangChain, Ollama (Phi-3), ChromaDB, FastAPI, Streamlit.
 
 ---
 

@@ -48,20 +48,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
-### 📊 [Customer Churn Prediction](https://github.com/JaviAzR18)
-* [cite_start]**Description:** Developed a machine learning model to predict customer churn using Python and Scikit-learn on a dataset of ~5,000 samples.
-* [cite_start]**Key Achievements:** * Performed extensive exploratory data analysis (EDA) and feature engineering to identify key drivers of churn[cite: 31].
-    * [cite_start]Applied model tuning and validation techniques, achieving **78% recall** to effectively detect high-risk customers.
-    * [cite_start]Deployed the solution as an interactive web application using Streamlit for real-time predictions[cite: 33].
+### 📊 [Customer Churn Prediction](https://github.com/JaviAzR18/ChurnPrediction)
+* **Description:** Developed a machine learning model to predict customer churn using Python and Scikit-learn on a dataset of ~5,000 samples.
+* **Key Achievements:** * Performed extensive exploratory data analysis (EDA) and feature engineering to identify key drivers of churn.
+    * Applied model tuning and validation techniques, achieving **78% recall** to effectively detect high-risk customers.
+    * Deployed the solution as an interactive web application using Streamlit for real-time predictions.
 * **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit.
 
-### 🤖 [RAG-based Knowledge Assistant](https://github.com/JaviAzR18)
-* [cite_start]**Description:** Designed and implemented a local-first Retrieval-Augmented Generation (RAG) pipeline for semantic search over custom document collections[cite: 34].
-* [cite_start]**Key Achievements:** * Built an end-to-end data pipeline including document ingestion, text chunking, embedding generation, and vector indexing[cite: 35].
-    * [cite_start]Implemented similarity search with top-k retrieval to improve answer relevance and contextual grounding[cite: 35].
-    * [cite_start]Developed RESTful APIs with FastAPI and an interactive Streamlit interface for seamless querying[cite: 35].
+### 🤖 [RAG-based Knowledge Assistant](https://github.com/JaviAzR18/RagProject)
+* **Description:** Designed and implemented a local-first Retrieval-Augmented Generation (RAG) pipeline for semantic search over custom document collections.
+* **Key Achievements:** * Built an end-to-end data pipeline including document ingestion, text chunking, embedding generation, and vector indexing.
+    * Implemented similarity search with top-k retrieval to improve answer relevance and contextual grounding.
+    * Developed RESTful APIs with FastAPI and an interactive Streamlit interface for seamless querying.
 * **Tech Stack:** LangChain, Ollama (Phi-3), ChromaDB, FastAPI, Streamlit.
 
 ---

@@ -1,12 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Javi+%F0%9F%91%8B;Full+Stack+Developer;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Javi+%F0%9F%91%8B;Data+Scientist+|+ML+Engineer;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-aznar-ruiz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-javier-aznar.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javieraznarruiz@gmail.com)
 
 - Location: Spain 🇪🇸
 - Role: Data Scientist | ML Engineer | AI Engineer
@@ -72,13 +76,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiazr18&layout=compact)
 
 ---
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-aznar-ruiz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-javier-aznar.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javieraznarruiz@gmail.com)
-
-</div>

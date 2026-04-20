@@ -61,7 +61,7 @@
     * Deployed the solution as an interactive web application using Streamlit for real-time predictions.
 * **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit.
 
-### 🤖 [RAG-based Knowledge Assistant](https://github.com/JaviAzR18/local_rag_project/)
+### 🤖 [Local RAG ChatBot](https://github.com/JaviAzR18/local_rag_project/)
 * **Description:** Designed and implemented a local-first Retrieval-Augmented Generation (RAG) pipeline for semantic search over custom document collections.
 * **Key Achievements:** * Built an end-to-end data pipeline including document ingestion, text chunking, embedding generation, and vector indexing.
     * Implemented similarity search with top-k retrieval to improve answer relevance and contextual grounding.
